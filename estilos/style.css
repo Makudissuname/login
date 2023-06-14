@@ -164,3 +164,6 @@ p.rodape > a{
     color: black;
     cursor:help;
 }
+abbr{
+    text-decoration: none;
+}
