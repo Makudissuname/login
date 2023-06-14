@@ -143,7 +143,7 @@ form > a.botao{
 form > a.botao:hover{
     background-color: #5bc5c2;
     color: white;
-    transition: .5s;
+    transition: .6s;
 
 }
 
@@ -161,4 +161,5 @@ p.rodape{
 
 p.rodape > a{
     color: black;
+    cursor:help;
 }
